@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p style = {{paddingBottom:"50px"}}>
+          
           Join our discord server!
         </p>
         <a
